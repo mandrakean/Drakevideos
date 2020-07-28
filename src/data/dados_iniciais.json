@@ -1,183 +1,167 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Desenvolvimento pessoal",
+      "link": "https://www.mdklab.com.br",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Como tornar-se sempre melhor",
+        "url": "https://www.mdklab.com.br"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Aprenda a ser frio e calculista",
+          "url": "https://www.youtube.com/watch?v=cnWxliqSxG4"
+        },        
+        {
+          "titulo": "Como tornar-se um MESTRE em qualquer coisa",
+          "url": "https://www.youtube.com/watch?v=xg41NyKFK24"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Como aprender tudo que quiser - Técnica Feynman",
+          "url": "https://www.youtube.com/watch?v=TVHUs67kwRk"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "7 exercícios para ficar em forma rápido",
+          "url": "https://www.youtube.com/watch?v=9jP5kT-opjA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Como meditar | Guia definitivo",
+          "url": "https://www.youtube.com/watch?v=AQy3n9wpKxU"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "12 hábitos das mentes milionárias",
+          "url": "https://www.youtube.com/watch?v=wtCL028drUw"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Como falar de uma forma que as pessoas queiram ouvir",
+          "url": "https://www.youtube.com/watch?v=D236cCikGmA"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Resiliência: Sendo casca grossa",
+          "url": "https://www.youtube.com/watch?v=hFwN93b10jg"
+        }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Faça você mesmo",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Impressora 3D feita de sucata",
+          "url": "https://www.youtube.com/watch?v=JgkhWgfAP6I"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Making eletric aluminium foundry",
+          "url": "https://www.youtube.com/watch?v=Mjlwc4x3GKE"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Como fazer um hoverboard",
+          "url": "https://www.youtube.com/watch?v=UEUvfX0Wukc"
+        },
+        {
+          "titulo": "Um servidor que cabe no bolso",
+          "url": "https://www.youtube.com/watch?v=8L7p6Qgh8wQ"
+        },
+        {
+          "titulo": "Toca dos gatos instantânea com camiseta",
+          "url": "https://www.youtube.com/watch?v=VnZEfQj8MVI"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Programação e TI",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Top 15 melhores sites para aprender a programar de graça",
+          "url": "https://www.youtube.com/watch?v=PzLqR-ejeo0"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Faculdade: engenharia de software, ciência da computação ou desenvolvimento de sistemas",
+          "url": "https://www.youtube.com/watch?v=APmtMvaYMLg"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Como contribuir com open source no github",
+          "url": "https://www.youtube.com/watch?v=n0lSrPl9DTc"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "10 erros que programadores iniciantes cometem",
+          "url": "https://www.youtube.com/watch?v=9Qmj9tbGFf8"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Futurismo",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Fazenda urbana",
+          "url": "https://www.youtube.com/watch?v=mo_YV8hvvTY"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Meu apartamento smart",
+          "url": "https://www.youtube.com/watch?v=Lce07PYI48w"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "O verdadeiro homem de ferro",
+          "url": "https://www.youtube.com/watch?v=fJnA83EWtLU"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Elon Musk e o futuro das interfaces cérebro-máquina",
+          "url": "https://www.youtube.com/watch?v=4HmV2FytLEE"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Cyberxamanismo",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Dataísmo: A religião dos algorítmos",
+          "url": "https://www.youtube.com/watch?v=fppjs-HqSXE"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "O que é discordianismo",
+          "url": "https://www.youtube.com/watch?v=2c_Wr2s8108"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "How to became a ordained minister",
+          "url": "https://www.youtube.com/watch?v=klEPdweosb0"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Curso de Magia Online",
+          "url": "https://www.youtube.com/watch?v=Q-CSbtRAtHM"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Os 40 servidores | Magia do caos",
+          "url": "https://www.youtube.com/watch?v=T8l8HBmOBoM"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Sobrevivencialismo",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Os 3 principios da defesa pessoal efetiva",
+          "url": "https://www.youtube.com/watch?v=-VwMpFiNJ-Y"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Conheça uma casa sobrevivencialista",
+          "url": "https://www.youtube.com/watch?v=sD1E4Jolqbw"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Vestimenta em cenário de crise",
+          "url": "https://www.youtube.com/watch?v=z-5ydDMULuk"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Dicas de comportamento defensivo",
+          "url": "https://www.youtube.com/watch?v=9bdAGF4TgOo"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Becoming anonimous",
+          "url": "https://www.youtube.com/watch?v=4Z7H5tXqMGo"
         }
       ]
     }
