@@ -28,4 +28,12 @@ a {
   min-height: calc(100vh - var(--bodyPaddingTop));
   display: flex;
   flex-direction: column;
+  background: #141414;
+}
+
+.slick-next:before, .slick-prev:before {
+  font-size: 20px;
+  line-height: 1;
+  opacity: .75;
+  color: #fff;
 }
