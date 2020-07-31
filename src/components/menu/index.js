@@ -5,6 +5,7 @@ import './Menu.css'
 import Button from '../Button'
 // import ButtonLink from './components/ButtonLink';
 
+
 function Menu() {
     return (
     <nav className='Menu'>
@@ -16,7 +17,6 @@ function Menu() {
             Novo vídeo
         </Button>
     </nav>
-
     );
 }
 
