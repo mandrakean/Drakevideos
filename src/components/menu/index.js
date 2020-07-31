@@ -1,4 +1,4 @@
-import React from './node_modules/react';
+import React from 'react';
 import { Link } from './node_modules/react-router-dom'
 import Logo from '../../assets/images/Logo.png';
 import './Menu.css'
